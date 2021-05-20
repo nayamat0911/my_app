@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.card{
+    margin: 20px auto;
+    padding:20px ;
+    width: 350px;
+    width: 0 auto;
+    background: #f7f7f7;
+    box-sizing: border-box;
+    box-shadow: 2px 5px 5px 2px rgb(212, 209, 209);
+    border-radius: 5px;
+}
+.cardTitle{
+    color: #ff019e;
+    text-align: center;
+    padding-bottom: 20px;
+    font-style: inherit;
+    font-size: 1.5rem;
+    text-transform: capitalize;
+    
+}
+.cardDesc{
+    text-align: center;
+    margin-bottom: 10px;
+    
+}
+.dateTime{
+    text-align: right;
+    
+}
